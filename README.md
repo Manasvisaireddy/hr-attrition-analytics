@@ -74,10 +74,3 @@ pip install pandas numpy scikit-learn lightgbm joblib
 3. Run 08_Tableau_Export.ipynb to generate dashboard CSVs
 4. Open Tableau Public -> connect to dashboard/employees_master.csv
 
-## Resume Bullet
-
-Built workforce attrition analytics system - 8 SQL queries on SQLite
-identifying overtime as 3x attrition driver, cost-of-attrition model
-quantifying $57M replacement exposure, and 5-view Tableau dashboard
-(heatmap, cost analysis, risk distribution, income-risk scatter, drivers
-chart) published at Tableau Public.
