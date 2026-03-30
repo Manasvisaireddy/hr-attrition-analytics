@@ -1,0 +1,4 @@
+Dataset,Rows,Attrition_Rate,AUC,Industry
+IBM (Training),1470,16.1,0.77,Technology
+HR Analytics,14999,23.8,0.63,Service
+MFG (Resignation),6284,6.1,0.66,Manufacturing

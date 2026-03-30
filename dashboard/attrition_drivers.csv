@@ -1,0 +1,13 @@
+Driver,Segment,Attrition_Rate
+OverTime,Yes,30.5
+OverTime,No,10.4
+JobSatisfaction,Low (1-2),19.7
+JobSatisfaction,High (3-4),13.9
+TenureBand,0-2 yrs,29.8
+TenureBand,3-5 yrs,13.8
+TenureBand,6-10 yrs,12.3
+TenureBand,10+ yrs,8.1
+IncomeBand,<3K,28.6
+IncomeBand,3K-6K,12.7
+IncomeBand,6K-10K,12.0
+IncomeBand,10K+,8.9

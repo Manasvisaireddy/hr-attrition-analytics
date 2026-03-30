@@ -1,0 +1,4 @@
+Department,total_employees,attrition_count,attrition_rate_pct,avg_monthly_income,replacement_cost,at_risk_cost,high_risk_count,avg_risk_score
+Human Resources,63,12,19.0,6655.0,2515404.0,115482.0,5,0.328
+Research & Development,961,133,13.8,6281.0,36217704.0,1326612.0,90,0.323
+Sales,446,92,20.6,6959.0,18622746.0,508830.0,28,0.311
